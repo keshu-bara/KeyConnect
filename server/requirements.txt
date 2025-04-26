@@ -1,0 +1,4 @@
+pynput==1.7.6
+flask==2.3.3
+flask-socketio==5.3.6
+websockets

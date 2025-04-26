@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KeyConnect</string>
+    <string name="ime_name">KeyConnect Keyboard</string>
+    <string name="settings_name">KeyConnect Settings</string>
+</resources>
